@@ -10,21 +10,29 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^18.0.0",
+    "jest": "^18.1.0",
+    "react-addons-test-utils": "^15.4.2",
+    "react-test-renderer": "^15.4.2"
+  },
   "dependencies": {
-    "react-router": "^3.0.2",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "ejs": "2.4.1",
-    "express": "4.13.3",
-    "jasmine": "^2.5.2",
     "babel-cli": "^6.18.0",
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
     "babel-preset-es2015": "^6.18.0",
     "babel-preset-react": "^6.16.0",
-    "react-test-renderer": "^15.4.2",
-    "webpack": "^1.14.0",
+    "ejs": "2.4.1",
+    "babel-jest": "^18.0.0",
     "react-addons-test-utils": "^15.4.2",
-    "valid-url": "^1.0.9"
+    "react-test-renderer": "^15.4.2",
+    "express": "4.13.3",
+    "jasmine": "^2.5.2",
+    "jest": "^18.1.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.2",
+    "valid-url": "^1.0.9",
+    "webpack": "^1.14.0"
   }
 }
